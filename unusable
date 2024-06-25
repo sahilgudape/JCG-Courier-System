@@ -1,0 +1,11 @@
+alert("स्वागत हैं आपका 🙏");
+<-- footer-->
+position: fixed;
+    width: 100%;
+    text-align: center;
+    
+    bottom: 0;
+    background-color: black;
+    color: blue;
+ .........   contactus......
+ https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css
